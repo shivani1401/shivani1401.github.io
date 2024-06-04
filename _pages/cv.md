@@ -12,8 +12,8 @@ redirect_from:
 You can find my CV [here](../files/Resume.pdf)
 
 ## Education
-***PhD, Electrical Engineering, IIT Madras** (2017-2024)  
-Advisor: Prof. Vinita Vasudevan 
+***PhD, Electrical Engineering, IIT Madras*** (2017-2024)  
+Advisor: Prof. Vinita Vasudevan  
 Thesis: Approximate inference in probabilistic graphical models like Bayesian networks and Markov networks
 
 
