@@ -9,14 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](files/Resume.pdf)
+You can find my CV [here](../files/Resume.pdf)
 
-### Education
-PhD, Electrical Engineering, IIT Madras, 2024  
-MS (by Research), Electrical Engineering, IIT Madras, 2017  
-BTech, Electronics \& Instrumentation, BITS Pilani, Pilani campus, 2011
+## Education
+***PhD, Electrical Engineering, IIT Madras** (2017-2024)
+Advisor: Prof. Vinita Vasudevan 
+Thesis: Approximate inference in probabilistic graphical models like Bayesian networks and Markov networks
 
-### Work experience
+
+***MS (by Research), Electrical Engineering, IIT Madras*** (2014-2017)  
+Advisor: Prof. Nitin Chandrachoodan  
+Thesis: Reduction of glitch power dissipation in digital circuits
+
+
+***BTech, Electronics \& Instrumentation, BITS Pilani*** (2007-2011)  
+
+
+## Work experience
 
    
 ***IBM Coorporation***, Bengaluru  
